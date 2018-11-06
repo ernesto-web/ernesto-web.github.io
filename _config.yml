@@ -9,8 +9,7 @@ name: Ernesto Pena
 description: High school story
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/
-seahorse-297677_960_720.png
+avatar:/images/seahorse-297677_960_720.png
 
 #
 # Flags below are optional
