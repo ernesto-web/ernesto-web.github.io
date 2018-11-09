@@ -12,4 +12,4 @@ This is a blog about me wanting to share some of my high school experiences whil
 
 ### Contact me
 
-[email@domain.com](mailto:ernestop7089@aurorak12.org)
+[ernestop7089@aurorak12.org](mailto:ernestop7089@aurorak12.org)
