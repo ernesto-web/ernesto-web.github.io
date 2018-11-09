@@ -3,6 +3,6 @@ layout: post
 title: Junior Year
 ---
 
-![Junior Year](/images/NAME-OF-PICTURE.png)
+![Junior Year](/images/action-blur-bookcase-356093.jpg)
 
 
