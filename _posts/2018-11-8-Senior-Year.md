@@ -7,4 +7,4 @@ title: Senior Year 🎓
 
 # Content coming soon!
 
-I will be writing my senior story here once I get to writing all my other stories on my other blogs!
+I will be writing my senior story here once I get to writing all my other stories on my other blogs posts.
