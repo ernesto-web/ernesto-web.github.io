@@ -7,4 +7,4 @@ title: Sophomore Year
 
 # Content coming to this post soon!
 
-Sorry for not having much on these yet but I am trying to get my website together before I begin writing. So stay tuned!
+Sorry for not having much on these posts yet but I am trying to get my website together before I begin writing. So stay tuned!
