@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like to share interesting stories / experiences that I have been through and think are worth sharing with everyone else.
 
 ### More Information
 
