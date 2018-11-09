@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High school freshman year
+title: Freshman year
 ---
 
 ![My Freshman year](/images/blur-book-book-bindings-1083728.jpg)
