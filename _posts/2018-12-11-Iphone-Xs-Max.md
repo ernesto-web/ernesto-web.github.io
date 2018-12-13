@@ -13,3 +13,6 @@ The pros of having this new phone is that there is a lot more screen for the own
 
 ## The Cons
 The cons of this new iphone is that the size has also been made larger than the iphone X. This means that this phone has been made as large as the iphone 8 plus, which can be a problem for people who have small hands or like to be able to operate the phone with just one hand. 
+
+## I would recommend this product
+I would recommend this iphone to someone looking to upgrade from their old phone to the new iphone. I recommend this phone because of the battery life. This phone has been upgraded to having a larger battery, which means that for someone that uses their phone a lot, the phone will last quite a bit longer than their old phone since a lager battery is needed to be able to power the large screen. Speaking of a larger screen, that's also another reason why this phone would be a good upgrade. having a bigger screen means that more image or content can be displayed rather then having those blocky borders the old iphones had in the past.
